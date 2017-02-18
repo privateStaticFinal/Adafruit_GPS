@@ -1,3 +1,9 @@
+A fork of the Adafruit GPS library refactored to emit SignalK over I2C.
+
+Please see http://signalk.org/
+
+
+
 This is the Adafruit GPS library - the ultimate GPS library
 for the ultimate GPS module!
 
